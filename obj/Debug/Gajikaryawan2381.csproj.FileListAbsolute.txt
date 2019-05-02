@@ -1,0 +1,7 @@
+E:\KULIAH\febrian\Gajikaryawan2381\Gajikaryawan2381\bin\Debug\Gajikaryawan2381.exe.config
+E:\KULIAH\febrian\Gajikaryawan2381\Gajikaryawan2381\bin\Debug\Gajikaryawan2381.exe
+E:\KULIAH\febrian\Gajikaryawan2381\Gajikaryawan2381\bin\Debug\Gajikaryawan2381.pdb
+E:\KULIAH\febrian\Gajikaryawan2381\Gajikaryawan2381\obj\Debug\Gajikaryawan2381.csprojAssemblyReference.cache
+E:\KULIAH\febrian\Gajikaryawan2381\Gajikaryawan2381\obj\Debug\Gajikaryawan2381.csproj.CoreCompileInputs.cache
+E:\KULIAH\febrian\Gajikaryawan2381\Gajikaryawan2381\obj\Debug\Gajikaryawan2381.exe
+E:\KULIAH\febrian\Gajikaryawan2381\Gajikaryawan2381\obj\Debug\Gajikaryawan2381.pdb
